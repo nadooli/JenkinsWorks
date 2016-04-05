@@ -4,7 +4,7 @@ class Hello{
 public static void sayHi(){
 	System.out.println("Hi");
 }
-public static void mainString args[]){
+public static void main(String args[]){
 	new Hello().sayHi();
 }
 }
